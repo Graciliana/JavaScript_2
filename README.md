@@ -24,7 +24,7 @@ ______________________________________________________
 ________________________________________________________
 
 ## Ferramenta extra: Readline-sync
-# __________________________________________________________
+ __________________________________________________________
 
 * Readline-sync é um pacote maravilhoso para pegar inputs no terminal, 
   ou seja pegar entradas de dados no sistema. Se você veio de programação 
